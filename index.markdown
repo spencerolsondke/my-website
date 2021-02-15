@@ -5,4 +5,4 @@
 layout: resume
 ---
 
-Mr Incognito is a very serious and working being and would love to work at your company.
+I have spent most of my life expanding my knowledge of the world and working on creative software projects.
