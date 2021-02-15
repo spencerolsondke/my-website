@@ -18,26 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Incognito's resume
-email: incognito@maastrichtuniversity.nl
+title: Spencer Matei Olson - Resume
+email: mateiolson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site is my personal resume for Spencer Matei Olson. Here you can
+  find my personal information, and my work experience
 baseurl: "/my-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 portfolio:
   info:
     name:
-      firstname: Mr
-      lastname: Incognito
-    location: Maastricht
-    phonenumber: (000) 000-0000
-    email: incognito@maastrichtuniversity.nl
+      firstname: Spencer Matei
+      lastname: Olson
+    location: Valkenburg, NL
+    phonenumber: (+31) 6 3417 8421
+    email: mateiolson@gmail.com
   social:
-    # twitter: your-username
-    facebook: MsvIncognito
-    github: msvincognito
+    twitter: matei.olson
+    facebook: Matei Olson
+    github: spencerolsondke
     # linkedin: your-username
     # rss: 'your-website'
 
